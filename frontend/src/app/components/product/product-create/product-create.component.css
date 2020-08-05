@@ -1,0 +1,11 @@
+.container input {
+    display: flex;
+    align-items: flex-end;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.mat-raised-button {
+    background-color: #469594;
+    margin: 10px 5px;
+}

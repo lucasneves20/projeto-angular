@@ -1,29 +1,9 @@
 {
   "product": [
     {
-      "id": "1",
-      "nome": "burtefly marble fade 70% 0.007 factor new",
-      "preco": 4000
-    },
-    {
-      "id": "2",
-      "nome": "burtefly marble fade 70% 0.007 factor new",
-      "preco": 4000
-    },
-    {
-      "id": "3",
-      "nome": "burtefly marble fade 70% 0.007 factor new",
-      "preco": 4000
-    },
-    {
-      "name": "Daniel Neves",
-      "price": "11111",
-      "id": "FrLrQOV"
-    },
-    {
-      "name": "Daniel Neves",
-      "price": "100.00",
-      "id": "Z5ERcHe"
+      "id": 1,
+      "name": "AWP greem medusa ",
+      "price": "1200.00"
     }
   ]
 }
